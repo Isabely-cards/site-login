@@ -84,3 +84,13 @@ header {
     background-color: white;
     color: black;
 }
+
+/*login*/
+
+.wrapper {
+    position: relative;
+    width: 400px;
+    height: 440px;
+    background: transparent;
+    border:  2px solid black;
+}
