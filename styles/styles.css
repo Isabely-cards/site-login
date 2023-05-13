@@ -99,13 +99,21 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow: hidden;
+    /*overflow: hidden;*/
 }
 
 .wrapper .form-box {
     width: 100%;
     padding: 40px;
 }
+
+.wrapper .form-box {
+    display: none;
+}
+
+
+
+
 
 .wrapper .icon-close {
     position: absolute;
