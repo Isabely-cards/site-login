@@ -10,11 +10,10 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: aquamarine;
+    background-color: rgb(107, 143, 130);
     background-image: url(img/fundp.jpeg) no-repeat;
     background-size: cover;
     background-position: center;
-
 }
 
 header {
